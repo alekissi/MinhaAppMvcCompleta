@@ -1,0 +1,12 @@
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.AssemblyReference.cache
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb

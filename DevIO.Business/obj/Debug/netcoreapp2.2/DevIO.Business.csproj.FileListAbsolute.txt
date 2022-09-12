@@ -1,0 +1,9 @@
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.AssemblyReference.cache
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+C:\Users\06927245405\Desktop\GIT-ALEX\MinhaAppMvcCompleta\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
