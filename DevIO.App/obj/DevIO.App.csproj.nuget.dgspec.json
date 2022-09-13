@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\DevIO.App.csproj": {}
+    "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\DevIO.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\DevIO.App.csproj": {
+    "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\DevIO.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\DevIO.App.csproj",
+        "projectUniqueName": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\DevIO.App.csproj",
         "projectName": "DevIO.App",
-        "projectPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\DevIO.App.csproj",
-        "packagesPath": "C:\\Users\\06927245405\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\obj\\",
+        "projectPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\DevIO.App.csproj",
+        "packagesPath": "C:\\Users\\aleki\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\06927245405\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -31,8 +31,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
-                "projectPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
+              "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+                "projectPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj"
               }
             }
           }
@@ -73,20 +73,20 @@
         }
       }
     },
-    "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj": {
+    "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj",
+        "projectUniqueName": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj",
         "projectName": "DevIO.Business",
-        "projectPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj",
-        "packagesPath": "C:\\Users\\06927245405\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\obj\\",
+        "projectPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj",
+        "packagesPath": "C:\\Users\\aleki\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\06927245405\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -127,20 +127,20 @@
         }
       }
     },
-    "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
+    "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "projectUniqueName": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
         "projectName": "DevIO.Data",
-        "projectPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
-        "packagesPath": "C:\\Users\\06927245405\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\obj\\",
+        "projectPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
+        "packagesPath": "C:\\Users\\aleki\\.nuget\\packages\\",
+        "outputPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\src\\DevIO.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\06927245405\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\aleki\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -154,8 +154,8 @@
           "netcoreapp2.2": {
             "targetAlias": "netcoreapp2.2",
             "projectReferences": {
-              "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj": {
-                "projectPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj"
+              "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj": {
+                "projectPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj"
               }
             }
           }
