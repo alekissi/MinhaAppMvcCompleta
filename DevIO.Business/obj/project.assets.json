@@ -688,23 +688,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\06927245405\\.nuget\\packages\\": {},
+    "C:\\Users\\aleki\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj",
+      "projectUniqueName": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj",
       "projectName": "DevIO.Business",
-      "projectPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj",
-      "packagesPath": "C:\\Users\\06927245405\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\06927245405\\Desktop\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\obj\\",
+      "projectPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\DevIO.Business.csproj",
+      "packagesPath": "C:\\Users\\aleki\\.nuget\\packages\\",
+      "outputPath": "D:\\GIT-ALEX\\MinhaAppMvcCompleta\\DevIO.Business\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\06927245405\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\aleki\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
